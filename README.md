@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Chukwuka Friday Oseji]
+# 👋 Hi, I'm Chukwuka Friday Oseji
 
 Welcome to my GitHub! I'm a **Data Scientist** with a background in **Computer Engineering**, currently pursuing an **MSc in Data Science** at the **University of Salford**. I specialize in turning data into insights and building intelligent systems that solve real-world problems.
 
