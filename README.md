@@ -17,8 +17,8 @@ Welcome to my GitHub! I'm a **Data Scientist** with a background in **Computer E
   - MLOps & Scalable Data Solutions
 - 🧰 **Technical Stack**:
   - **Languages**: Python, SQL, JavaScript, C/C++
-  - **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn
-  - **Tools**: Jupyter, Git, Docker, Power BI, AWS, Azure, Linux, Postgres
+  - **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Mongo DB
+  - **Tools**: Jupyter, Git, Excel, Power BI, AWS, Databricks, pyspark, MLflow, pysql,mysql, 
   - **Frameworks**: Flask, FastAPI, React
 
 ---
@@ -29,7 +29,7 @@ Here are a few projects that reflect my skills and interests:
 
 - 📊 **Customer Churn Prediction**  
   Developed a machine learning pipeline to predict customer churn using structured customer data, with model explainability via SHAP.  
-  *Tools: Python, Scikit-Learn, XGBoost, SHAP, Matplotlib*
+  *Tools: Python, Scikit-Learn, Matplotlib*
 
 - 🤖 **Twitter Sentiment Analyzer**  
   Built an LSTM-based model for real-time sentiment analysis of tweets related to global events. Includes preprocessing, vectorization, and model deployment.  
